@@ -22,13 +22,8 @@ i)	#Use a linear search method to match the item in a list.
 ''' 
 Program for linear search method to match the item in a list
 Developed by:JESU SMARTIA A
-RegisterNumber: 21222310016
-```
-''' 
-Program for linear search method to match the item in a list
-Developed by:JESU SMARTIA A
-RegisterNumber: 21222310016
-'''
+RegisterNumber: 2122231001
+
 def linearSearch(array,n,k):
     for i in range(0,n):
         if(array[i]==k):
@@ -50,11 +45,10 @@ else:
 ```
 ii)	# Find the element in a list using Binary Search(Iterative Method).
 ```
-''' 
 Program to find the element in a list using Binary Search(Iterative Method)..
 Developed by:JESU SMARTIA A
 RegisterNumber: 212223110016
-'''
+
 def binarySearchIter(array, k, low, high):
     while low<=high:
         mid=low+(high-low)//2
@@ -78,11 +72,10 @@ else:
 ```
 iii)	# Find the element in a list using Binary Search (recursive Method).
 ```
-''' 
 Program to find the element in a list using Binary Search (recursive Method).
 Developed by: your name: JESU SMARTIA A
 RegisterNumber: 212223110016
-'''
+
 def BinarySearch(arr, k, low, high):
     if high>=low:
         mid=low+(high-low)//2
@@ -107,7 +100,7 @@ else:
     print(arr)
     print("Element found at index: ",result)
 ```
-Sample Input and Output
+## Sample Input and Output
 
 ![Screenshot 2024-01-02 170527](https://github.com/jesu-smartia05/Search-Algorithm/assets/148514819/cc63a6ae-235a-420e-8694-1148f1fae108)
 
