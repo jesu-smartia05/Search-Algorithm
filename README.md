@@ -107,7 +107,7 @@ else:
     print(arr)
     print("Element found at index: ",result)
 ```
-## Sample Input and Output
+Sample Input and Output
 
 ![Screenshot 2024-01-02 170527](https://github.com/jesu-smartia05/Search-Algorithm/assets/148514819/cc63a6ae-235a-420e-8694-1148f1fae108)
 
